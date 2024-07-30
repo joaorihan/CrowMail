@@ -1,0 +1,4 @@
+name: CrowMail
+version: '${project.version}'
+main: com.joao.crowmail.CrowMail
+api-version: '1.20'
